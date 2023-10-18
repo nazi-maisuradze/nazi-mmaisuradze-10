@@ -1,0 +1,176 @@
+@media (max-width:1024px) {
+   
+    .main-wrapper {
+        padding-top: 45px;
+    }
+    .header-wrapper {
+        padding-left: 250px;
+    }
+    .right-header {
+        margin-left:227px ;
+    }
+    .page1-txt {
+        width:665px ;
+        height:359px ;
+        margin-top: 96px;
+        padding-left: 84px;
+    }
+    .page1-txt-h1 {
+        width: 95%;
+        margin-bottom: 93px;
+        height: 74px;
+        font-size: 56px;
+        line-height: 73.5px;
+    }
+    .page2-txt-1 {
+        max-width: 764px;
+        width: 95%;
+        max-height: 1149.72px;
+
+    }
+    .section2 {
+        max-width: 764px;
+        width: 95%;
+        height: 1149.72px;
+        margin-top: 53.28px;
+        margin-left: 130px;
+    }
+    .page2-div-conteiner{
+        max-width: 764px;
+        width: 95%;
+        max-height: 1149.72px;
+        flex-wrap: wrap;
+        top: 700.28px;
+        left: 130px;
+    }
+    
+    .page2-box  {
+        max-width: 298px;
+        width: 100%;
+        max-height: 212px;
+
+    }
+    .section3 {
+        max-width: 904px;
+        width: 100%;
+        height: 404px;
+        margin-top: 151px;
+        margin-left: 58px;
+        border-radius: 8px;
+    }
+
+}
+
+@media (max-width: 375px) {
+    .burger-bar {
+        display: block;
+        max-width: 32px;
+        width: 95%;
+        height: 32px;
+    }
+    .navigation {
+        display: none;
+    }
+    .page1-txt {
+        max-width: 335px;
+        width: 100%;
+        height: 379.85px;
+        margin-top: 62px;
+        margin-left: 20px;
+    }
+    .page1-txt-h1 {
+        max-width: 335px;
+        width: 90%;
+        height: 160px;
+        font-size: 42px;
+        line-height: 57.5px;
+        margin-bottom: 30px;
+    }
+    .page2-txt-1 {
+        max-width: 286px;
+        width: 95%;
+        height: 31px;
+        margin-top: 60px;
+        margin-left: 45px;
+
+    }
+    .page2-txt-2 {
+        max-width: 334px;
+        width: 90%;
+        height: 109px;
+        margin: 15px 20px 40px 21px;
+        font-size: 12px;
+        line-height: 22px;
+        letter-spacing: 0.2 px;
+    }
+    .page2-div-conteiner {
+        max-width: 335px;
+        width: 95%;
+        height: 1,665px;
+    }
+    .page2-box {
+        max-width: 316px;
+        width: 95%;
+        height: 215px;
+        margin-bottom: 80px;
+        flex-wrap: wrap;
+    }
+    .section3 {
+        max-width:338px;
+        width: 95%;
+        height: 793px;
+        gap: 30px;
+    }
+    .right-div {
+        max-width: 335px;
+        width: 95%;
+        height: 312px;
+        border-radius: 8px;
+    }
+    .left-div {
+        max-width: 338px;
+        width: 95%;
+        height: 451px;
+
+    }
+    .left-div-h  {
+        width: 335px;
+        height: 42px;
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 41.5px;
+    }
+    .left-div-p {
+        max-width: 336px;
+        width: 90%;
+        height: 200px;
+        margin-top: 61px;
+        margin-bottom: 40px;
+        font-size: 14px;
+        line-height: 28.5px;
+    }
+    .left-div-add {
+        max-width: 338px;
+        width: 90px;
+        height: 108px;
+        border-radius: 8px;
+        padding-right: 20px;
+        padding-left: 17px;
+    }
+    .footer {
+        max-width: 375px;
+        width: 95%;
+        max-height: 1340px;
+        height: 95%;
+    }
+    .footer-wrapper {
+        max-width:258.61px;
+        width: 90%;
+        height:1,027px;
+        margin-top: 80px;
+        margin-right: 96;
+        display: flex;
+        flex-direction: column;
+
+    }
+}
